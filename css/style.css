@@ -1,8 +1,13 @@
-h1{
- 
-}
 
 body{
   background-color: lightgray;
+  font-size: large;
+}
+img{
+ height: 80px;
+ width: 80px;
+}
 
+h1{
+  font-size: 2cm;
 }
